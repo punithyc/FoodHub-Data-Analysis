@@ -35,3 +35,11 @@ The data contains the different data related to a food order. The detailed data 
 * American,Japanese and italian have higher ratings as they are most preferred cuisines
 * there is some correlation between longer delivery times and lower ratings as they took longer time to delivered  and tend to receive lower feedback
 * Cuisines like Vietnamese, Spanish, and Korean have fewer orders and lower ratings This indicates the possible issues with food quality, delivery times and other reasons
+
+### Recommendations:
+
+*  Encourage customers to provide ratings, especially for cuisines that are less popular, to better understand why they are underperforming
+* For less popular cuisines (e.g., Vietnamese, Spanish, Korean), it may be helpful to run promotions to raise awareness and attract customers and providing the deals and discounts to increase the sales based on the day of the week
+* assigning the dedicated customer support for solving the problems very quickly with common issues (e.g., late delivery, poor food quality)
+* Analyze the data to identify peak order times and ensure enough delivery personnel are available during those periods
+* Identifying and improving the areas with food preparation quality,packing and the delivery times
