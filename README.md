@@ -27,3 +27,11 @@ The data contains the different data related to a food order. The detailed data 
 * *__rating__*: Rating given by the customer out of 5
 * *__food_preparation_time__*: Time (in minutes) taken by the restaurant to prepare the food. This is calculated by taking the difference between the timestamps of the restaurant's order confirmation and the delivery person's pick-up confirmation.
 * *__delivery_time__*: Time (in minutes) taken by the delivery person to deliver the food package. This is calculated by taking the difference between the timestamps of the delivery person's pick-up confirmation and drop-off information
+
+### Conclusions
+*  American cuisine is the most ordered cuisine type with nearly 600 orders
+* Japanese and italian cuisines are the 2nd and 3rd most ordered cuisine types
+* the least ordered cuisine types are vietanamese,spanish and korean
+* American,Japanese and italian have higher ratings as they are most preferred cuisines
+* there is some correlation between longer delivery times and lower ratings as they took longer time to delivered  and tend to receive lower feedback
+* Cuisines like Vietnamese, Spanish, and Korean have fewer orders and lower ratings This indicates the possible issues with food quality, delivery times and other reasons
